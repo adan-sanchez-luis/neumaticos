@@ -171,8 +171,8 @@
                     <div class="container-fluid rounded color">
                         <br>
                         <!-- Page Heading -->
-                        <h1 class="h3 mb-2 bold-title">SISTEMAS DE NEUMATICOS MICHELIN <i class="fas fa-car"></i> </h1>
-                        <p class="mb-4 text-dark">“la innovación al servicio de la movilidad”</p>
+                        <h1 class="h3 mb-2 bold-title">SISTEMAS DE 0VENTA DE NEUMATICOS  <i class="fas fa-car"></i> </h1>
+                        <!-- <p class="mb-4 text-dark">“la innovación al servicio de la movilidad”</p> -->
 
 
 
@@ -188,7 +188,7 @@
                             <div class="card shadow  rounded card-color">
                                 <div class="container text-black2 text-center">
                                     <br>
-                                    Bienvenido al sistema de neumaticos Michelin,
+                                    Bienvenido al sistema,
                                     esperemos que disfrute de su estancia, Gracias.
                                     <br>
                                     <br>
