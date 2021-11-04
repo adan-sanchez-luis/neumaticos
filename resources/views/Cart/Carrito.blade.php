@@ -20,7 +20,7 @@
                     <br>
                     <!-- Page Heading -->
                     <h1 class="h3 mb-2 bold-title text-upper"> Catálogo <i class="fas fa-store"></i></h1>
-                    <p class="mb-4 text-dark">Consulte sus productos aquí.</p>
+                    <p class="mb-4 text-dark">Consultar sus productos aquí.</p>
 
 
                     {{-- mensajes --}}
