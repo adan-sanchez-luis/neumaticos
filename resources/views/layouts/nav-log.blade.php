@@ -6,6 +6,7 @@
                     <div class="container">
                         @guest
                         <a class="navbar-brand" href="{{ url('/') }}">
+                            <!-- aqui se cambia el logo -->
                             <img src="https://i.ibb.co/2YBhLXC/Michelin-Logo.png" alt="Sistemas de Maxima Seguridad"
                             width="40" height="40" class="d-inline-block align-text-top">
                         </a>
