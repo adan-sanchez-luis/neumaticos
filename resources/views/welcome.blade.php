@@ -105,10 +105,9 @@
           </h1>
           <p class="p-3  fs-4">
               <span class="text-success">Misión.</span> 
-              Desde la fundación de la empresa en 1891, la misión 
-              de Michelin es contribuir, de forma sostenible, con el progreso de la movilidad
-               de las personas y de los bienes, facilitando la libertad, la seguridad, la eficiencia
-                y el placer de viajar.
+              Estamos comprometidos a proveer productos, servicios y atención de la más alta calidad, 
+              respetando y preservando nuestro entorno, brindando seguridad y confianza a nuestros clientes y proveedores.
+
           </p>
 
         <h1 class="p-3 fs-2 border-top border-3"> <span class="text-success"> Visión</span>
@@ -116,12 +115,8 @@
         </h1>
         <p class="p-3  fs-4">
             <span class="text-success">Visión.</span> 
-            Michelin se compromete a conducir todos los aspectos comerciales de una manera responsable. 
-            Esto incluye el desarrollo de soluciones eficientes para satisfacer las expectativas y 
-            los deseos de los consumidores y los accionistas, respetarnos al medio ambiente.
-            Cada decisión de Michelin está basada en cinco valores fundamentales que promueven 
-            el respeto a las personas, a los clientes, a los accionistas, al medio ambiente y a 
-            los hechos.
+            Cumplir las necesidades de nuestros clientes, permitiéndonos ser indudablemente la mejor opción del 
+            mercado de llantas y baterías para brindar una excelente atención a los automóviles.
         </p>
     </section>
     
