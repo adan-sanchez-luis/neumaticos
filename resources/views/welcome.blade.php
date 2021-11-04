@@ -8,7 +8,7 @@
     <div class="bg-fondo">
 
    
-        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <!-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="1000">
                     <img src="https://wallpapercave.com/wp/wp3766140.jpg"
@@ -33,21 +33,21 @@
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>
-        </div>
+        </div> -->
 
         <!--========================================================== -->
         <!-- INTRODUCCION DE SERVICIOS-->
         <!--========================================================== -->
 
 
-        <section class="d-flex flex-column justify-content-center align-items-center pt-5  text-center w-50 m-auto" id="intro">
+        <!-- <section class="d-flex flex-column justify-content-center align-items-center pt-5  text-center w-50 m-auto" id="intro">
             <h1 class="p-3 fs-2 border-top border-3"> <span class="text-success"> “la innovación al servicio de la movilidad”</span></h1>
             <p class="p-3  fs-4">
                 <span class="text-success">Michelin.</span> es un empresa francesa 
                 especializada en la fabricación de neumáticos fundada por los hermanos Édouard Michelin
                  y André Michelin el 28 de mayo de 1889 desarrollado para neumáticos de bicicleta.
             </p>
-        </section>
+        </section> -->
 
         <!--========================================================== -->
         <!-- TIPOS DE SERVICIOS-->
