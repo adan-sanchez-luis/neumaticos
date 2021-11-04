@@ -77,8 +77,8 @@
                             alt="desarrollo" width="180" height="160">
 
                         <div>
-                            <h3 class="fs-5 mt-4 px-4 pb-1 text-success">Promociones/h3>
-                            <p class="px-4">Las mejores promociones las encuentras aquí.</p>
+                            <h3 class="fs-5 mt-4 px-4 pb-1 text-success">Promociones </h3>
+                            <p class="px-4">**Seccion aun en construccion**</p>
                         </div>
                     </div>
                     </div>
@@ -90,7 +90,7 @@
   
                           <div>
                               <h3 class="fs-5 mt-4 px-4 pb-1 text-success">Precios</h3>
-                              <p class="px-4">Paga de acuerdo a tu presupuesto, siempre encontraras algo para ti.</p>
+                              <p class="px-4">Pregunte sobre los precios</p>
                           </div>
                       </div>
                       </div>
@@ -105,10 +105,9 @@
           </h1>
           <p class="p-3  fs-4">
               <span class="text-success">Misión.</span> 
-              Desde la fundación de la empresa en 1891, la misión 
-              de Michelin es contribuir, de forma sostenible, con el progreso de la movilidad
-               de las personas y de los bienes, facilitando la libertad, la seguridad, la eficiencia
-                y el placer de viajar.
+              Estamos comprometidos a proveer productos, servicios y atención de la más 
+              alta calidad, respetando y preservando nuestro entorno, brindando seguridad 
+              y confianza a nuestros clientes y proveedores.
           </p>
 
         <h1 class="p-3 fs-2 border-top border-3"> <span class="text-success"> Visión</span>
@@ -116,12 +115,8 @@
         </h1>
         <p class="p-3  fs-4">
             <span class="text-success">Visión.</span> 
-            Michelin se compromete a conducir todos los aspectos comerciales de una manera responsable. 
-            Esto incluye el desarrollo de soluciones eficientes para satisfacer las expectativas y 
-            los deseos de los consumidores y los accionistas, respetarnos al medio ambiente.
-            Cada decisión de Michelin está basada en cinco valores fundamentales que promueven 
-            el respeto a las personas, a los clientes, a los accionistas, al medio ambiente y a 
-            los hechos.
+            Cumplir las necesidades de nuestros clientes, permitiéndonos ser indudablemente la mejor opción del
+             mercado de llantas y baterías para brindar una excelente atención a los automóviles.
         </p>
     </section>
     
@@ -146,11 +141,11 @@
 
 </div>
 <footer class="w-100  d-flex  align-items-center justify-content-center flex-wrap">
-  <p class="fs-10 px-3  pt-3 text-dark1">Michelin. &copy; Todos Los Derechos Reservados 2021</p>
+  <p class="fs-10 px-3  pt-3 text-dark1">Llantero. &copy; Redes sociales</p>
   <div>
-      <a href="https://m.facebook.com/Michelin/?locale2=es_LA"><i class="fab text-primary fa-facebook fa-2x	mx-2"></i></a>
-      <a href="https://twitter.com/michelinmex?lang=es"><i class="fab text-primary fa-twitter fa-2x mx-2	"></i></a>
-      <a href="https://www.instagram.com/michelin/?hl=es"><i class="fab text-primary fa-instagram fa-2x	mx-2"></i></a>  
+      <a href="https://m.facebook.com/"><i class="fab text-primary fa-facebook fa-2x	mx-2"></i></a>
+      <!-- <a href="https://twitter.com/michelinmex?lang=es"><i class="fab text-primary fa-twitter fa-2x mx-2	"></i></a> -->
+      <a href="https://www.instagram.com/"><i class="fab text-primary fa-instagram fa-2x	mx-2"></i></a>  
   </div>
   
 </footer>
