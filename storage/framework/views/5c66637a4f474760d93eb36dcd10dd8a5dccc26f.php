@@ -1,3 +1,4 @@
+
 <?php $__env->startSection('titulo', 'Mi perfil'); ?>
 <?php $__env->startSection('contenido'); ?>
 
@@ -46,12 +47,12 @@
                                                                             <?php echo csrf_field(); ?>
                                                                             <div class="row">
                                                                                 <div class="col-md-12" style="text-align: center">
-                                                                                    <label class="text-black h4">Cambio de neumaticos</label>
+                                                                                    <label class="text-black">Cambio de neumaticos</label>
                                                                                     <br><br>
                                                                                 </div>
-                                                                                <div class="col-md-12 mt-4">
+                                                                                <div class="col-md-12">
                                                                                     <div class="text-center">
-                                                                                        <label class="text-black h4">Agregue los datos del servicio</label>
+                                                                                        <!--<label class="text-black">Agregue los datos del servicio</label>-->
                                                                                         <!--<input type="file" accept="image/*" name="image"
                                                                                         placeholder="Inserte una imagen" class="form-control text-upper">
 
@@ -74,6 +75,8 @@ unset($__errorArgs, $__bag); ?>
                                                                                         <label class="text-black h4">Agregue una descripción para el servicio</label>
                                                                                         <textarea class="form-control"
                                                                                         value="<?php echo e(old('message')); ?>"    name="message"></textarea>
+                                                                                        <label class="text-black h4">Agregue el total del servicio</label>
+                                                                                        
                                                                                     </div>
                                                                                     <?php $__errorArgs = ['message'];
 $__bag = $errors->getBag($__errorArgs[1] ?? 'default');

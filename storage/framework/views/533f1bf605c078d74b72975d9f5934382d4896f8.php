@@ -20,7 +20,7 @@
             </li>
 
             <!-- Divider -->
-
+<!--
              <?php if (app(\Illuminate\Contracts\Auth\Access\Gate::class)->check('reporte.index')): ?>
              <hr class="sidebar-divider my-0">
 
@@ -31,7 +31,7 @@
                  </a>
              </li>
              <?php endif; ?>
-
+    -->
              <?php if (app(\Illuminate\Contracts\Auth\Access\Gate::class)->check('client.index')): ?>
              <hr class="sidebar-divider my-0">
 
@@ -60,7 +60,7 @@
               <li class="nav-item   <?php echo e(!Route::is('promocion.index') ?: 'active'); ?>">
                   <a class="nav-link" href="<?php echo e(route('promocion.index')); ?>">
                      <i class="fas fa-fw fa-percentage"></i>
-                      <span>Promociones</span>
+                      <span>Cambio de neumaticos</span>
                   </a>
               </li>
               
@@ -75,7 +75,7 @@
             
 
             
-
+<!--
             <?php if (app(\Illuminate\Contracts\Auth\Access\Gate::class)->check('permission.index')): ?>
                 <hr class="sidebar-divider my-0">
 
@@ -86,7 +86,8 @@
                     </a>
                 </li>
             <?php endif; ?>
-
+            -->
+<!--
             <?php if (app(\Illuminate\Contracts\Auth\Access\Gate::class)->check('role.index')): ?>
                 <hr class="sidebar-divider my-0">
 
@@ -97,7 +98,8 @@
                     </a>
                 </li>
             <?php endif; ?>
-
+            -->
+<!--
             <?php if (app(\Illuminate\Contracts\Auth\Access\Gate::class)->check('user.index')): ?>
                 <hr class="sidebar-divider my-0">
 
@@ -108,6 +110,7 @@
                     </a>
                 </li>
             <?php endif; ?>
+            -->
 
 
 
