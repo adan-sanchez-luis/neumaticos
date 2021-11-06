@@ -75,6 +75,7 @@ unset($__errorArgs, $__bag); ?>
                                                                                         <textarea class="form-control"
                                                                                         value="<?php echo e(old('message')); ?>"    name="message"></textarea>
                                                                                         <label class="text-black h4">Agregue el total del servicio</label>
+                                                                                        <input id="number" type="number" value="0">
                                                                                     </div>
                                                                                     <?php $__errorArgs = ['message'];
 $__bag = $errors->getBag($__errorArgs[1] ?? 'default');

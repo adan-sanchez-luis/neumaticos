@@ -68,7 +68,7 @@
                                                                                         <textarea class="form-control"
                                                                                         value="{{old('message')}}"    name="message"></textarea>
                                                                                         <label class="text-black h4">Agregue el total del servicio</label>
-                                                                                        
+                                                                                        <input id="number" type="number" value="0">
                                                                                     </div>
                                                                                     @error('message')
                                                                                     <div class="message-error">*{{ $message }}</div>
