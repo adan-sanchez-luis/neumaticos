@@ -3,11 +3,11 @@
 
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?php echo e(url('/')); ?>">
-                <div class="sidebar-brand-icon rotate-n-15">
-                    <!-- <img src="https://i.ibb.co/2YBhLXC/Michelin-Logo.png" alt="Michelin"
-                        width="40" height="40" class="d-inline-block align-text-top"> -->
+                <div class="sidebar-brand-icon">
+                     <img src="https://wallpapercave.com/uwp/uwp1581891.jpeg" alt="Llantero"
+                        width="60" height="60" class="d-inline-block align-text-top"> 
                 </div>
-                <div class="sidebar-brand-text mx-3">Logo....</div>
+                <div class="sidebar-brand-text mx-3">LLantero</div>
             </a>
 
             <!-- Divider -->

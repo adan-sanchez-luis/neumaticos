@@ -3,7 +3,12 @@
     <!-- Sidebar Toggle (Topbar) -->
     <div class="container">
         @guest
-        <a class="navbar-brand text-white" href="{{ url('/') }}">LOGO</a>
+        <a class="navbar-brand text-white" href="{{ url('/') }}">
+            <div class="sidebar-brand-icon">
+                <img src="https://wallpapercave.com/uwp/uwp1581891.jpeg" alt="Llantero"
+                   width="60" height="60" class="d-inline-block align-text-top"> 
+           </div>
+        </a>
         @else
         <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
             <i class="fa fa-bars"></i>
