@@ -3,11 +3,11 @@
 
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{ url('/') }}">
-                <div class="sidebar-brand-icon rotate-n-15">
-                    <!-- <img src="https://i.ibb.co/2YBhLXC/Michelin-Logo.png" alt="Michelin"
-                        width="40" height="40" class="d-inline-block align-text-top"> -->
+                <div class="sidebar-brand-icon">
+                     <img src="https://wallpapercave.com/uwp/uwp1581891.jpeg" alt="Llantero"
+                        width="60" height="60" class="d-inline-block align-text-top"> 
                 </div>
-                <div class="sidebar-brand-text mx-3">Logo....</div>
+                <div class="sidebar-brand-text mx-3">LLantero</div>
             </a>
 
             <!-- Divider -->
@@ -68,27 +68,27 @@
 
 
 
-            {{-- @can('productos.index')
+            @can('productos.index')
             <hr class="sidebar-divider my-0">
                 <li class="nav-item  {{ request()->routeIs('productos.index') ? 'active' : '' }}">
                     <a class="nav-link" href="{{ route('productos.index') }}">
                         <i class="fas fa-boxes"></i>
                         <span>Inventario</span></a>
                 </li>
-            @endcan --}}
+            @endcan
 
-            {{-- @can('cart.cart')
+             @can('cart.cart')
                 <hr class="sidebar-divider my-0">
                 <li class="nav-item {{ !Route::is('cart.cart') ?: 'active' }}">
                     <a class="nav-link" href="{{ url('/Cart/Carrito') }}">
                         <i class="fas fa-store"></i>
                         <span>Catálogo</span></a>
                 </li>
-            @endcan --}}
+            @endcan
 
             
 
-            {{-- @can('cita.create')
+             @can('cita.create')
                 <hr class="sidebar-divider my-0">
                 <li class="nav-item {{ !Route::is('cita.create') ?: 'active' }}">
                     <a class="nav-link" href="{{ route('cita.create') }}">
@@ -96,8 +96,8 @@
                         <span>Agendar citas</span>
                     </a>
                 </li>
-            @endcan --}}
-<!--
+            @endcan 
+{{--
             @can('permission.index')
                 <hr class="sidebar-divider my-0">
 
@@ -108,8 +108,8 @@
                     </a>
                 </li>
             @endcan
-            -->
-<!--
+    --}}        
+
             @can('role.index')
                 <hr class="sidebar-divider my-0">
 
@@ -120,8 +120,8 @@
                     </a>
                 </li>
             @endcan
-            -->
-<!--
+            
+
             @can('user.index')
                 <hr class="sidebar-divider my-0">
 
@@ -132,8 +132,8 @@
                     </a>
                 </li>
             @endcan
-            -->
-{{-- 
+            
+
              @can('pedido.index') 
             <hr class="sidebar-divider my-0">
 
@@ -143,10 +143,10 @@
                     <span>Ver pedidos</span>
                 </a>
             </li>
-            @endcan --}}
+            @endcan
 
 
-            {{-- @can('cart.invoices')
+             @can('cart.invoices')
             <hr class="sidebar-divider my-0">
 
             <li class="nav-item   {{ !Route::is('cart.invoices') ?: 'active' }}">
@@ -155,7 +155,7 @@
                     <span>Nota de pago</span>
                 </a>
             </li>
-            @endcan --}}
+            @endcan
 
             
 
