@@ -19,6 +19,7 @@ class CreateCitasTable extends Migration
 
 
         // usuarios
+        //no lo entiedno
         Schema::create('users', function (Blueprint $table) {
             $table->id();
             $table->string('name');
